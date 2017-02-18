@@ -1,0 +1,19 @@
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\StringProcess\bin\Debug\StringManipulation.dll
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\StringProcess\bin\Debug\StringManipulation.pdb
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\StringProcess\obj\Debug\StringManipulation.dll
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\StringProcess\obj\Debug\StringManipulation.pdb
+C:\Users\Hasan\Downloads\project\ClassLibrary1\StringProcess\bin\Debug\StringManipulation.dll
+C:\Users\Hasan\Downloads\project\ClassLibrary1\StringProcess\bin\Debug\StringManipulation.pdb
+C:\Users\Hasan\Downloads\project\ClassLibrary1\StringProcess\obj\Debug\StringManipulation.dll
+C:\Users\Hasan\Downloads\project\ClassLibrary1\StringProcess\obj\Debug\StringManipulation.pdb
+C:\Users\Hasan\Downloads\project\ClassLibrary1\StringProcess\obj\Debug\StringManipulation.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Downloads\project\TextProcessApp\StringManipulation\bin\Debug\StringManipulation.dll
+C:\Users\Hasan\Downloads\project\TextProcessApp\StringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\Hasan\Downloads\project\TextProcessApp\StringManipulation\obj\Debug\StringManipulation.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Downloads\project\TextProcessApp\StringManipulation\obj\Debug\StringManipulation.dll
+C:\Users\Hasan\Downloads\project\TextProcessApp\StringManipulation\obj\Debug\StringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\bin\Debug\StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\bin\Debug\StringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\obj\Debug\StringManipulation.csprojResolveAssemblyReference.cache
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\obj\Debug\StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\obj\Debug\StringManipulation.pdb

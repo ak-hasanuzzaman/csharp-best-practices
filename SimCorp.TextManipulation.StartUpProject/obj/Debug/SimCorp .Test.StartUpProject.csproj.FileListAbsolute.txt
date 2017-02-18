@@ -1,0 +1,12 @@
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\TextFiles\inputdate.txt
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\SimCorp.Test.StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\SimCorp.Test.StringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\obj\Debug\SimCorp .Test.StartUpProject.csprojResolveAssemblyReference.cache
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\SimCorp.Test.StartUpProject.exe.config
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\SimCorp.Test.StartUpProject.exe
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\SimCorp.Test.StartUpProject.pdb
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\SimCorp.Test.UnitTestStringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\bin\Debug\SimCorp.Test.UnitTestStringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\obj\Debug\SimCorp.Test.StartUpProject.exe
+F:\others\TextProcessApp\TextProcessApp\DisplayProcessdText\obj\Debug\SimCorp.Test.StartUpProject.pdb

@@ -1,0 +1,5 @@
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\bin\Debug\SimCorp.TextManipulation.StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\bin\Debug\SimCorp.TextManipulation.StringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\obj\Debug\SimCorp.TextManipulation.StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\obj\Debug\SimCorp.TextManipulation.StringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\obj\Debug\SimCorp.TextManipulation.StringManipulation.csprojResolveAssemblyReference.cache

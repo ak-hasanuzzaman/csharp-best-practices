@@ -1,0 +1,8 @@
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\SimCorp.Test.UnitTestStringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\SimCorp.Test.UnitTestStringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\SimCorp.Test.StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\SimCorp.Test.StringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\obj\Debug\SimCorp.Test.UnitTestStringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\obj\Debug\SimCorp.Test.UnitTestStringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\obj\Debug\SimCorp.Test.UnitTestStringManipulation.csprojResolveAssemblyReference.cache

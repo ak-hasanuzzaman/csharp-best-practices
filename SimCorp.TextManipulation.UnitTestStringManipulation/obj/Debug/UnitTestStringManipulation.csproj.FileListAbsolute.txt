@@ -1,0 +1,32 @@
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.csprojResolveAssemblyReference.cache
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestStringManipulation\bin\Debug\UnitTestStringManipulation.dll
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestStringManipulation\bin\Debug\UnitTestStringManipulation.pdb
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestStringManipulation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestStringManipulation\bin\Debug\StringManipulation.dll
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestStringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.dll
+C:\Users\a.hasanuzzaman\Documents\Visual Studio 2015\Projects\ClassLibrary1\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.pdb
+C:\Users\Hasan\Downloads\project\ClassLibrary1\UnitTestStringManipulation\bin\Debug\UnitTestStringManipulation.dll
+C:\Users\Hasan\Downloads\project\ClassLibrary1\UnitTestStringManipulation\bin\Debug\UnitTestStringManipulation.pdb
+C:\Users\Hasan\Downloads\project\ClassLibrary1\UnitTestStringManipulation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hasan\Downloads\project\ClassLibrary1\UnitTestStringManipulation\bin\Debug\StringManipulation.dll
+C:\Users\Hasan\Downloads\project\ClassLibrary1\UnitTestStringManipulation\bin\Debug\StringManipulation.pdb
+C:\Users\Hasan\Downloads\project\ClassLibrary1\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Downloads\project\ClassLibrary1\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.dll
+C:\Users\Hasan\Downloads\project\ClassLibrary1\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.pdb
+C:\Users\Hasan\Downloads\project\TextProcessApp\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\Downloads\project\TextProcessApp\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.dll
+C:\Users\Hasan\Downloads\project\TextProcessApp\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.pdb
+C:\Users\Hasan\Downloads\project\TextProcessApp\UnitTestStringManipulation\bin\Debug\UnitTestStringManipulation.dll
+C:\Users\Hasan\Downloads\project\TextProcessApp\UnitTestStringManipulation\bin\Debug\UnitTestStringManipulation.pdb
+C:\Users\Hasan\Downloads\project\TextProcessApp\UnitTestStringManipulation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hasan\Downloads\project\TextProcessApp\UnitTestStringManipulation\bin\Debug\StringManipulation.dll
+C:\Users\Hasan\Downloads\project\TextProcessApp\UnitTestStringManipulation\bin\Debug\StringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.csprojResolveAssemblyReference.cache
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\obj\Debug\UnitTestStringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\UnitTestStringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\UnitTestStringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\SimCorp.Test.StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\UnitTestStringManipulation\bin\Debug\SimCorp.Test.StringManipulation.pdb

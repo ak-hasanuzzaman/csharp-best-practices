@@ -1,0 +1,4 @@
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\bin\Debug\SimCorp.Test.StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\bin\Debug\SimCorp.Test.StringManipulation.pdb
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\obj\Debug\SimCorp.Test.StringManipulation.dll
+F:\others\TextProcessApp\TextProcessApp\StringManipulation\obj\Debug\SimCorp.Test.StringManipulation.pdb
