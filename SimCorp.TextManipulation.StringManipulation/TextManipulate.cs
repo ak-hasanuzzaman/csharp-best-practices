@@ -10,7 +10,7 @@ using SimCorp.TextManipulation.StringManipulation.Format;
 namespace SimCorp.TextManipulation.StringManipulation
 {
     /// <summary>
-    /// Manipulates input text..
+    /// Manipulates input text
     /// </summary>
     public class TextManipulate
     {
